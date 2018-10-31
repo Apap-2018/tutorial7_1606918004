@@ -1,5 +1,6 @@
 package com.apap.tutorial7.rest;
 
 public class Setting {
-	final public static String dealerUrl = "https://24aa9807-3a35-4610-9579-659481236aea.mock.pstmn.io/";
+	final public static String dealerUrl = "https://6c68d05a-ba7c-4a71-812d-45681bc67a46.mock.pstmn.io/";
+	final public static String modelUrl = "https://www.carqueryapi.com/api/0.3";
 }
